@@ -17,6 +17,8 @@ As placas com WiFi checam `<Poço>/<Placa>/version.json` a cada 6h e, se a vers�
 - Palmeira1/Bomba
 - Pinhalzinho/Boia
 - Pinhalzinho/Bomba
+- Santos/Boia (WiFi oportunista: conecta só no boot pra checar OTA, depois segue só em LoRa)
+- Santos/Bomba
 
 ## Fora do OTA automático
 
